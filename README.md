@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esteban Gonzalez</h1>
-<h3 align="center">A passionate fullstack developer from Colombia</h3>
+<h3 align="center">A passionate Fullstack developer from Colombia</h3>
 
 - 🌱 I’m currently learning **php, nodeJs, MySQL, mongoDB, Vue, React, Laravel**
 

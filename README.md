@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian Esteban Becerra Gonzalez</h1>
 <h3 align="center">A passionate Full Stack Developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Flutter, node.js, C#, .NetCore, Laravel**
+- 🌱 I’m currently learning **Flutter, node.js, C#, .NetCore**
 
 - 💬 About me **I am an effective communicator, work well in teams, and have a problem-solving mindset. I am adaptable, capable of learning quickly and managing projects in constantly evolving environments. Additionally, I have great resilience and I am ready to contribute to the growth and success of a leading technology company.**
 

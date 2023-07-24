@@ -13,7 +13,7 @@
   <a href="mailto:estebangonzalez5002@gmail.com" style="display: inline-block; margin-right: 20px;">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru" />
   </a>
-  <a href="https://www.linkedin.com/in/rolando-rodriguez-garcia/" style="display: inline-block;">
+  <a href="www.linkedin.com/in/fabian-esteban-becerra-gonzalez-016245277" style="display: inline-block;">
     <img src="https://img.shields.io/badge/LinkedIn-pink?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>

@@ -6,7 +6,7 @@
 - 💬 About me **I am an effective communicator, work well in teams, and have a problem-solving mindset. I am adaptable, capable of learning quickly and managing projects in constantly evolving environments. Additionally, I have great resilience and I am ready to contribute to the growth and success of a leading technology company.**
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnJwZ2JhamVkNGlmMm95bzUyNmh5cjAybXE0bmc3ZHh2djhjNmV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NacQCfn9Cgkshx81hT/giphy.gif" align="right" border-radius="10px" width="130">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMzOHB3ZGFwa2pmbjM1YjJzcHZhZDcxc3d3YXMxZWxodWFmdjlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xPeN6TLEzwHCcijeqK/giphy.gif" align="right" border-radius="10px" width="130">
 </div>
 
 <p>

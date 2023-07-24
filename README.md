@@ -14,8 +14,6 @@
   <img src="https://media2.giphy.com/media/2lOClHnQg8Njy/giphy.gif?cid=ecf05e47acnv0jn0tp5lcbt9sn86a2phdhtrzx1vhllnhkhc&ep=v1_gifs_related&rid=giphy.gif&ct=s" align="right" border-radius="10px" width="60" height="70">
 </div>
 
----
-
 ### 📊 My Stats : 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">

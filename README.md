@@ -4,11 +4,7 @@
 - 🌱 I’m currently learning **Flutter, node.js**
 
 - 💬 About me **I am an effective communicator, work well in teams, and have a problem-solving mindset. I am adaptable, capable of learning quickly and managing projects in constantly evolving environments. Additionally, I have great resilience and I am ready to contribute to the growth and success of a leading technology company.**
-
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnMzOHB3ZGFwa2pmbjM1YjJzcHZhZDcxc3d3YXMxZWxodWFmdjlrOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xPeN6TLEzwHCcijeqK/giphy.gif" align="right" border-radius="10px" width="130">
-</div>
-
+  
 <p>
   <a href="mailto:estebangonzalez5002@gmail.com" style="display: inline-block; margin-right: 20px;">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=mail.ru" />
